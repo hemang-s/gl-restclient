@@ -1,0 +1,8 @@
+.*
+*.md
+!README.md
+docker-compose.yml
+Dockerfile
+Makefile
+README.md
+**/.vscode
